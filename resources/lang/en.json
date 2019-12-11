@@ -1,0 +1,9 @@
+{
+    "title_verify_email": "Verify Your Email Address",
+    "message": "Before proceeding, please check your email for a verification link. If you did not receive the email",
+    "message_email_resend": "A fresh verification link has been sent to your email address.",
+    "text_button_resend": "click here to request another",
+    "language": "Language",
+    "spanish_text": "Spanish",
+    "english_text": "English"
+}

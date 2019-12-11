@@ -1,0 +1,9 @@
+{
+    "title_verify_email": "Verifica tu cuenta de Correo",
+    "message": "Para poder continuar, por favor verifica tu cuenta de correo electronico. Si aun no recibes el correo",
+    "message_email_resend": "Se ha enviado un nuevo link de verificacion a tu correo",
+    "text_button_resend": "Da click aqui para enviar de nuevo",
+    "language": "Lenguaje",
+    "spanish_text": "Español",
+    "english_text": "Inglés"
+}
